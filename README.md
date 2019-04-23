@@ -10,3 +10,6 @@ The script main.m contains Matlab code for recovering sparse parameter matrix. W
 The script preprodata.R contains R code for preprocessing the data. It outputs GenDat.csv which is the final dataset we focus on.
 
 Please see the comments in each script for brief introduction of other files.
+
+To use the code, citation to the paper High-dimensional Varying Index Coefficient Models via Stein’s Identity is required.
+
