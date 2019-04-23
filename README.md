@@ -5,7 +5,7 @@ The data folder contains the data downloaded from https://datadryad.org/resource
 
 The Figures folder contains all output figures.
 
-The script main.m contains Matlab code for recovering sparse matrix. We require CVX package to be installed in advance. Please see http://cvxr.com/ for instruction.
+The script main.m contains Matlab code for recovering sparse parameter matrix. We require CVX package to be installed in advance. Please see http://cvxr.com/ for instruction.
 
 The script preprodata.R contains R code for preprocessing the data. It outputs GenDat.csv which is the final dataset we analyzed.
 
