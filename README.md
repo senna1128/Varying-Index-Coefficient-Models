@@ -7,6 +7,6 @@ The Figures folder contains all output figures.
 
 The script main.m contains Matlab code for recovering sparse parameter matrix. We require CVX package to be installed in advance. Please see http://cvxr.com/ for instruction.
 
-The script preprodata.R contains R code for preprocessing the data. It outputs GenDat.csv which is the final dataset we analyzed.
+The script preprodata.R contains R code for preprocessing the data. It outputs GenDat.csv which is the final dataset we focus on.
 
 Please see the comments in each script for brief introduction of other files.
